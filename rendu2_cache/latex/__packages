@@ -1,0 +1,16 @@
+FNN
+naivebayes
+MASS
+randomForest
+class
+mda
+nnet
+ggplot2
+lattice
+caret
+e1071
+kernlab
+dplyr
+imputeTS
+lars
+elasticnet
